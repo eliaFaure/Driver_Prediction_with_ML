@@ -1,0 +1,9 @@
+
+28. November
+TODO
+- Remove timestamp and timestamp_gps feature (DONE)
+- Remove all but one gyro_z feature (DONE)
+- Find the best temporal features (Time series analysis / sliding window)
+- Then plot the corr Matrix
+- Remove features
+- PCA algorithm
