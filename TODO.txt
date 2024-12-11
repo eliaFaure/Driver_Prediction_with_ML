@@ -4,6 +4,20 @@ TODO
 - Remove timestamp and timestamp_gps feature (DONE)
 - Remove all but one gyro_z feature (DONE)
 - Find the best temporal features (Time series analysis / sliding window)
-- Then plot the corr Matrix
-- Remove features
+- Then plot the corr Matrix (DONE)
+- Remove features (DONE)
 - PCA algorithm
+
+
+7. Desember
+Features to keep/try:
+	- Timestamp
+	- Acceleration Dashboard x, y, z
+	- Speed
+	- Gyroscope Dashboard x, y, z
+
+- Plot the correlation matrix using these features
+- Reduce datasamples by 1/2 or 1/4
+- Apply windowing function
+- Obtain statistics from the windowing function
+- Plot correlation matrix 
