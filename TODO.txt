@@ -9,7 +9,7 @@ TODO
 - PCA algorithm
 
 
-7. Desember
+7. December
 Features to keep/try:
 	- Timestamp
 	- Acceleration Dashboard x, y, z
@@ -21,3 +21,13 @@ Features to keep/try:
 - Apply windowing function
 - Obtain statistics from the windowing function
 - Plot correlation matrix 
+
+15 december
+-created pipeline for cross-folder evaluation on the window size 
+-used reduction factor of 100 just for testing
+-inserted labels 
+-split the dataframe keeping 1 Scenario for testing and the other 2 Scenarios for training (we can test on unseen data doing like this, is the best aproach in my opinion)
+-WHAT WE NEED TO DO: 
+    1) reduce significantly the number of features, in order to be able to train the model with a reduction factor of 2/4. Do this by: PCA, feature correlation, feature selection using RANDOM forest.
+    2) resize all the 9 dataframes to the same size (same number of records) in order to avoid unbiasedeness. we need to remove useless data at the beginning or at the end of the track (when the driver is not moving yet/anymore)
+    3) hyperparameters tuning and choosing the best model ( just tried really basic models)
