@@ -61,6 +61,14 @@ what I did:
     -try to do the same with dataset not reduced( or reduced by 2)--> takes a lot of time STILL HAVE TO DO IT!
 
     -->take home: either we apply features correlation before the window(really few features, no correlation at all) or we do it after the window (best situation would be when we do not apply reduction, but a lot of time for windowing, with reduced dataframe only 3 features removed and different depending on the TEST_SET CHOSEN
+
+**WORK ON PCA(PCA file)**
+-simply applied PCA, plotted amounts of features with different values of exlained variance( we can obtain 95% of explained variance by simply using 19 features intead of 36, it is a lot)
+-results tested on SVM using 100 as a ratio factor
+-tried to test it with reduction ratio of 2: 
+
+
+
         
 
     
