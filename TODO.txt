@@ -67,7 +67,13 @@ what I did:
 -results tested on SVM using 100 as a ratio factor
 -tried to test it with reduction ratio of 2: 
 
+19 December
 
+What I did:
+	- Cleaned up finished script, split it into data_formatting.ipynb and training_testing.ipynb
+	- Tested cross-correlation with reduced amount of features
+		--> doesnt work yet due to troubles with array vs. DataFrame data_formatting
+	- 
 
         
 
