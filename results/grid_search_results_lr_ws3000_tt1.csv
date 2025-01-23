@@ -1,0 +1,70 @@
+Parameters;Mean Accuracy;Test on (2, 0.001, 100, 0.5)
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.5};0.736263064;0.926
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.5};0.736263064;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.5};0.728151646;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.5};0.728151646;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.5};0.723039923;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.5};0.723039923;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.5};0.751082251;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.5};0.751082251;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.5};0.743823517;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.5};0.743823517;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.5};0.742599152;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.5};0.738698675;
+;;
+Parameters;Mean Accuracy;Test on (2, 0.001, 100, 0.6)
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.6};0.7405483405483405;0.9444846806546668
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.6};0.7405483405483405;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.6};0.7367965367965369;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.6};0.7367965367965369;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.6};0.7363155363155363;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.6};0.7363155363155363;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.6};0.7821155275700731;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.6};0.7821155275700731;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.6};0.7792076610258428;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.6};0.7792076610258428;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.6};0.7747955747955748;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.6};0.7747999475272204;
+;;
+Parameters;Mean Accuracy;Test on (2, 0.001, 100, 0.7)
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.7};0.762643754;0.976
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.7};0.7600857055402509;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.7};0.7705452796361888;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.7};0.7705452796361888;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.7};0.7702785430058157;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.7};0.7702785430058157;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.7};0.7626437535528444;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.7};0.7626437535528444;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.7};0.7537408719226901;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.7};0.7537321264593992;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.7};0.7446193537102627;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.7};0.7445799991254537;
+;;
+Parameters;Mean Accuracy;Test on (2, 0.001, 100, 0.8)
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.8};0.7606629061174516;0.9733127418610431
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.8};0.7516026061480607;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.8};0.7627705627705628;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.8};0.7627705627705628;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.8};0.7617167344440072;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.8};0.7617167344440072;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.8};0.7606629061174516;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.8};0.7606629061174516;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.8};0.7543705452796362;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.8};0.7543705452796362;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.8};0.7559184922821286;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.8};0.7564257291530018;
+;;
+;;
+Parameters;Mean Accuracy;Test on (2, 0.001, 100, 0.9)
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.9};0.730539158;0.9794404799943196
+{'poly__degree': 1, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.9};0.730539158;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.9};0.7295115658752023;
+{'poly__degree': 1, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.9};0.7295115658752023;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.9};0.7302855393764484;
+{'poly__degree': 1, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.9};0.7302855393764484;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 100, 'pca__n_components': 0.9};0.7950369495824042;
+{'poly__degree': 2, 'logreg__C': 0.001, 'logreg__max_iter': 500, 'pca__n_components': 0.9};0.7950369495824042;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 100, 'pca__n_components': 0.9};0.7927456382001837;
+{'poly__degree': 2, 'logreg__C': 0.01, 'logreg__max_iter': 500, 'pca__n_components': 0.9};0.7927543836634746;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 100, 'pca__n_components': 0.9};0.7902881630154358;
+{'poly__degree': 2, 'logreg__C': 0.1, 'logreg__max_iter': 500, 'pca__n_components': 0.9};0.7902881630154358;

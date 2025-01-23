@@ -1,0 +1,30 @@
+TT1;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.7)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.7};0.610202676;0.6683329431046593
+;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.9)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.9};0.6021645021645022;0.6523881994848981
+;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.8)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.8};0.591155057;0.652891594
+;;
+;;
+TT2;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.7)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.7};0.610202676;0.36420044764983833
+;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.8)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.8};0.591155057;0.3642087374616596
+;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.9)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.9};0.6021645021645022;0.3642874906739617
+;;
+TT3;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.7)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.7};0.610202676;0.7319034500852682
+;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.8)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.8};0.591155057;0.7523284796012069
+;;
+Parameters;Mean Accuracy;Test on (350, None, 10, True, 'sqrt', 0.9)
+{'rf__n_estimators': 350, 'rf__max_depth': None, 'rf__min_samples_split': 10, 'rf__bootstrap': True, 'rf__max_features': 'sqrt', 'pca__n_components': 0.9};0.6021645021645022;0.7538501902138266
