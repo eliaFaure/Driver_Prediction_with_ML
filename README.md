@@ -1,3 +1,0 @@
-# MALIS_PROJECT
-
-# testing
