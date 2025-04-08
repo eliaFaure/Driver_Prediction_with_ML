@@ -23,7 +23,7 @@ The findings emphasize the significance of **feature engineering** and **evaluat
 ## Report & Code Structure
 
 - **Report**:  
-   You can find the detailed report in the **"Report"** folder.
+   You can find the detailed report in the **"Report"** file.
 
 - **Code**:  
    The code is located in the **"final_code"** folder:
